@@ -1,0 +1,12 @@
+"pt-BR":
+  flash:
+    actions:
+      create:
+        notice: "%{resource_name} criado com sucesso."
+        alert: "Verifique suas informações antes de continuar."
+      update:
+        notice: "%{resource_name} editado com sucesso."
+        alert: "Verifique suas informações antes de continuar."
+      destroy:
+        notice: "%{resource_name} removido com sucesso."
+        alert: "%{resource_name} não pode ser removido, pois possui uma matricula."
